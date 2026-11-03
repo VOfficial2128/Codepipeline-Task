@@ -5,3 +5,4 @@
 - `sudo certbot certonly --standalone -d mysafety24x7.in -d www.mysafety24x7.in`
 - CI/CD Task using AWS Codepipeline service
 - Testing part
+- Everything is working prefect...!
